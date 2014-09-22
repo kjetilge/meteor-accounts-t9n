@@ -70,7 +70,7 @@ no_NB =
       "Email already exists.": "E-postadressen finnes allerede."
       "Email doesn't match the criteria.": "E-postadressen møter ikke kriteriet."
       "Invalid login token": "Ugyldig innloggingstegn"
-      "Login forbidden": "Innlogging forbudt"
+      "Login forbidden": "Kunne ikke logge inn. Kontrollér brukernavn/passord"
       #"Service " + options.service + " already configured"
       "Service unknown": "Ukjent tjeneste"
       "Unrecognized options for login request": "Ukjendte valg ved innloggingsforsøk"
